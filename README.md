@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tommaso Rossi 👋
 
-<!--
-**RedKyrie02/RedKyrie02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Study Path
+🎓 Bachelor’s Degree in Computer Science for Management @University of Bologna (UniBo) 
+🎓 Master’s Degree in Computer Engineering @University of Modena (UniMoRe)
+📊 Data Analytics track
 
-Here are some ideas to get you started:
+💻 Passionate about software development, data, and building projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tommaso-rossi-043b792bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- Instagram: [_red02_](https://www.instagram.com/_red02_/)
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** Python, Java, C++, SQL, JavaScript   
+- **Areas of Interest:** Data Analytics, Machine Learning, Web Development, DevOps  
+
+---
+
+## 📂 Projects & Collaborations
+Check out some of my projects and collaborative repositories:  
+
+- **[Organization Name](https://github.com/Sudy-Code-Hub)** — Projects & course notes with Luca Anghinolfi
