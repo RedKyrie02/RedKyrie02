@@ -1,6 +1,6 @@
 # Hi, I'm Tommaso Rossi 👋
 
-## 🔗 Study Path
+## 🎓 Study Path
 🎓 Bachelor’s Degree in Computer Science for Management @University of Bologna (UniBo)  
 🎓 Master’s Degree in Computer Engineering @University of Modena (UniMoRe)
 📊 Data Analytics track
@@ -25,3 +25,6 @@
 Check out some of my projects and collaborative repositories:  
 
 - **[Study Code Hub](https://github.com/Study-Code-Hub)** — Projects & course notes with Luca Anghinolfi
+
+## 📂 CV
+[![Download CV](https://img.shields.io/badge/Download-CV-green)](Curriculum%20Vitae%20Rossi%20Tommaso%20-%2009_04_2025.pdf)
