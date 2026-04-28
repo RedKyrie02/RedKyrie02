@@ -1,8 +1,8 @@
 # Hi, I'm Tommaso Rossi 👋
 
 ## 🎓 Study Path
-🎓 Bachelor’s Degree in Computer Science for Management @University of Bologna (UniBo)  
-🎓 Master’s Degree in Computer Engineering @University of Modena (UniMoRe)
+🎓 Bachelor’s Degree in [Computer Science for Management](https://corsi.unibo.it/laurea/InformaticaManagement) @University of Bologna (UniBo)  
+🎓 Master’s Degree in [Computer Engineering](https://www.ingmo.unimore.it/it/didattica/corsi-di-laurea-magistrale-informazioni-generali/ingegneria-informatica) @University of Modena (UniMoRe)
 📊 Data Analytics track
 
 💻 Passionate about software development, data, and building projects  
