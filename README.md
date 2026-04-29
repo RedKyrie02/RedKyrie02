@@ -25,6 +25,7 @@
 Check out some of my projects and collaborative repositories:  
 
 - **[Study Code Hub](https://github.com/Study-Code-Hub)** — Projects & course notes with Luca Anghinolfi
+- **[MMRE Driverless Team](https://github.com/MMR-Electric-Driverless)** — MMRE Driverless Team (Unimore) - **[Project Link](https://www.moremodenaracing.it/autonomous-driving-e-driverless/)**
 
 ## 📂 CV
 [![Download CV](https://img.shields.io/badge/Download-CV-green)](Curriculum%20Vitae%20Rossi%20Tommaso%20-%2009_04_2025.pdf)
